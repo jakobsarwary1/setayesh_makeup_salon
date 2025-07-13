@@ -1,6 +1,6 @@
-#Setayesh Makeup Saloon Website
+#Setayesh Beauty Salon Website
 
-This repository contains the source code for the Setayesh Makeup Saloon website, a platform to showcase makeup and hairstyling services for women in Kabul, Afghanistan.
+This repository contains the source code for the Setayesh Beauty Salon website, a platform to showcase makeup and hairstyling services for women in Kabul, Afghanistan.
 
 Features
 
@@ -8,7 +8,7 @@ Features
 
 
 
-Homepage: Welcomes visitors with an introduction to Setayesh Makeup Saloon.
+Homepage: Welcomes visitors with an introduction to Setayesh Beauty Salon.
 
 
 
@@ -100,4 +100,4 @@ Implement a booking system for appointments.
 
 License
 
-© 2025 Setayesh Makeup Saloon. All rights reserved.
+© 2025 Setayesh Beauty Salon. All rights reserved.
