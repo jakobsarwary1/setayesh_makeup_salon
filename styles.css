@@ -15,18 +15,22 @@ header, footer {
   padding: 1em 0;
 }
 
+nav {
+  background: linear-gradient(90deg, #f78ca0, #f9748f, #fd868c, #fe9a8b);
+  padding: 10px 0;
+}
+
 nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  background: linear-gradient(90deg, #f8b6d2, #fbd1a2, #c2a0f9);
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 nav ul li {
-  margin: 5px 10px;
+  margin: 0 10px;
 }
 
 nav ul li a {
@@ -35,12 +39,12 @@ nav ul li a {
   padding: 0.5em 1em;
   display: block;
   border-radius: 4px;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(255 255 255 / 0.15); /* halbtransparente Buttons */
   transition: background-color 0.3s ease;
 }
 
 nav ul li a:hover {
-  background-color: rgba(255, 255, 255, 0.4);
+  background-color: rgba(255 255 255 / 0.4);
 }
 
 main {
@@ -121,6 +125,14 @@ button:hover {
   max-width: 300px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   font-size: 1rem;
+}
+/* Footer farbig passend */
+footer {
+  background: linear-gradient(90deg, #fe9a8b, #fd868c, #f9748f, #f78ca0);
+  color: white;
+  text-align: center;
+  padding: 1em 0;
+  font-size: 0.9rem;
 }
 
 /* Tablet Styles */
