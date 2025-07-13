@@ -1,4 +1,4 @@
-Setayesh Makeup Saloon Website
+#Setayesh Makeup Saloon Website
 
 This repository contains the source code for the Setayesh Makeup Saloon website, a platform to showcase makeup and hairstyling services for women in Kabul, Afghanistan.
 
