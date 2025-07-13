@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     console.log('Setayesh Makeup Saloon website loaded');
 
-    // Basic form submission handling (placeholder)
+    // Basic form submission handling
     const contactForm = document.getElementById('contact-form');
     if (contactForm) {
         contactForm.addEventListener('submit', (e) => {
